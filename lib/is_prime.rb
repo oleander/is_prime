@@ -1,0 +1,3 @@
+module IsPrime
+  # Your code goes here...
+end
